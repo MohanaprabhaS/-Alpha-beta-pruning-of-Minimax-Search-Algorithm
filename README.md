@@ -1,6 +1,6 @@
 <h1>ExpNo 7 : Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game</h1> 
-<h3>Name:       </h3>
-<h3>Register Number/Staff Id:           </h3>
+<h3>Name: Mohanaprabha S </h3>
+<h3>Register Number/Staff Id: 212224040197 </h3>
 <H3>Aim:</H3>
 <p>
 Implement Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
@@ -217,5 +217,19 @@ if __name__ == "__main__":
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/99a33390-fa11-4ade-a19f-e93bcd7aaec9)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/440797bd-53cb-49c1-b18d-89776864c3e7)
 ![image](https://github.com/natsaravanan/19AI405FUNDAMENTALSOFARTIFICIALINTELLIGENCE/assets/87870499/81575a16-26b2-46f1-a8ac-27c9ed0a0fe5)
+
+# Output:
+
+
+<img width="551" height="946" alt="image" src="https://github.com/user-attachments/assets/f7678047-2b88-4d41-8470-6997a1d71185" />
+
+
+# Result:
+
+We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game.
+
+
+
+
 
 
